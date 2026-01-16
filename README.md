@@ -13,7 +13,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Robot-blueviolet?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-LLM-orange?style=for-the-badge)
 
 ### ⚙️ Frameworks & Backend
@@ -26,5 +25,5 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-Scrum-blue?style=for-the-badge
+![Agile](https://img.shields.io/badge/Agile-Scrum-blue?style=for-the-badge).
 
