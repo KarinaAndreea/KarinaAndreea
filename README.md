@@ -1,7 +1,8 @@
 # 👋 Hello, I'm Karina!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.<br/>
 👩🏻‍🎓 Studied Computer Science at the University of Iasi, Romania.<br/>
-💭 Currently learning about AI and Machine Learning. <br/>
+💭 Interested in AI, Machine Learning, and Web Development. <br/>
+🎨 My hobbies: kdramas, books & cooking.
 
 # 💻 Tech Stack
 
